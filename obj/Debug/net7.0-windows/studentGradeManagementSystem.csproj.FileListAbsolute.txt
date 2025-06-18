@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\bin\Debug\net7.0-windows\studentGradeManagementSystem.exe
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\bin\Debug\net7.0-windows\studentGradeManagementSystem.deps.json
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\bin\Debug\net7.0-windows\studentGradeManagementSystem.runtimeconfig.json
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\bin\Debug\net7.0-windows\studentGradeManagementSystem.dll
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\bin\Debug\net7.0-windows\studentGradeManagementSystem.pdb
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.dll
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\refint\studentGradeManagementSystem.dll
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.pdb
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\studentGradeManagementSystem.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\alu\canvas-assignment\studentGradeManagementSystem\obj\Debug\net7.0-windows\ref\studentGradeManagementSystem.dll
